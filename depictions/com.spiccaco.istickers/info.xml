@@ -4,7 +4,10 @@
     <version>1.0.0</version>
     <descriptions>
         <description>
-             Custom iOS Stickers! To use the stickers simply copy the path to a .PNG (You can rename a .GIF to .PNG and it'll work), paste the path in the iStckers Editor in the settings app and click "Create Sticker"! Attention to some images may be too big so if the iStickers pane crashes in iMessage resize te image.
+             Custom iOS Stickers! 
+        </description>
+        <description>
+             To use the stickers simply copy the path to a .PNG (You can rename a .GIF to .PNG and it'll work), paste the path in the iStckers Editor in the settings app and click "Create Sticker"! Attention to some images may be too big so if the iStickers pane crashes in iMessage resize te image.
         </description>
     </descriptions>
     <compatibility>
