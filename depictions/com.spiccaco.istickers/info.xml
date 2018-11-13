@@ -13,7 +13,7 @@
     </compatibility>
     <dependencies>
         <dependency>mobilesubstrate</dependency>
-        <dependency>PreferenceBundle</dependency>
+        <dependency>preferencebundle</dependency>
         <dependency>sed</dependency>
     </dependencies>
     <changelog>
