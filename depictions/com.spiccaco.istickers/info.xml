@@ -1,13 +1,10 @@
 <packageInfo>
     <bundleId>com.spiccaco.istickers</bundleId>
     <name>iStickers</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <descriptions>
         <description>
-             Custom iOS Stickers! 
-        </description>
-        <description>
-             To use the stickers simply copy the path to a .PNG (You can rename a .GIF to .PNG and it'll work), paste the path in the iStckers Editor in the settings app and click "Create Sticker"! Attention to some images may be too big so if the iStickers pane crashes in iMessage resize te image.
+             Custom iOS Stickers! To use the stickers simply copy the path to a .PNG (You can rename a .GIF to .PNG and it'll work), paste the path in the iStckers Editor in the settings app and click "Create Sticker"! Attention to some images may be too big so if the iStickers pane crashes in iMessage resize te image.
         </description>
     </descriptions>
     <compatibility>
@@ -16,10 +13,14 @@
     </compatibility>
     <dependencies>
         <dependency>mobilesubstrate</dependency>
-        <dependency>preferencebundle</dependency>
+        <dependency>PreferenceBundle</dependency>
         <dependency>sed</dependency>
     </dependencies>
     <changelog>
+        <change>
+            <changeVersion>V1.0.1 </changeVersion>
+            <changeDescription>-Squashed bug that made it unusable</changeDescription>
+        </change>
         <change>
             <changeVersion>V1.0.0 </changeVersion>
             <changeDescription>Initial Release</changeDescription>
