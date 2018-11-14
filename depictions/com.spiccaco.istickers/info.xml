@@ -15,6 +15,7 @@
         <dependency>mobilesubstrate</dependency>
         <dependency>PreferenceBundle</dependency>
         <dependency>sed</dependency>
+        <dependency>Erika Utilities</dependency>
     </dependencies>
     <changelog>
         <change>
